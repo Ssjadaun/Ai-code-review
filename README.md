@@ -1,5 +1,5 @@
 AI Code Reviewer
-This is the frontend application for the AI Code Reviewer, a web-based tool that leverages artificial intelligence to analyze and provide feedback on code snippets. Built with Next.js, TypeScript, and TailwindCSS, this application offers an intuitive interface for developers to receive AI-driven code reviews.​
+This is the frontend application for the AI Code Reviewer, a web-based tool that leverages artificial intelligence to analyze and provide feedback on code snippets. Built with Next.js, JavaScript, and TailwindCSS, this application offers an intuitive interface for developers to receive AI-driven code reviews.​
 
 Features
 AI-Powered Code Analysis: Integrates with AI models to review code snippets and provide constructive feedback.
